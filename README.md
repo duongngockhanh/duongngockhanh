@@ -1,3 +1,5 @@
 Hi! I'm Khanh. I'm interested in Mathematics.
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duongngockhanh&show_icons=true&locale=en&layout=compact" alt="duongngockhanh"/></p>-->
+Official announcement of discontinuing the use of GitHub as a code repository. 
+
+Recently, a friend of mine had their GitHub account unexpectedly locked, so I have decided to change the storage location of my source code and will no longer regularly update on GitHub.
